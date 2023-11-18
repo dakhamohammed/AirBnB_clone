@@ -16,3 +16,8 @@
 * How to compute CSS Specificity Value
 * What are Box properties in CSS
 
+### TASKS
++ Task 0. **Inline styling**
+  * HTML page that displays a header and a footer.
+  * File: `0-index.html`
+
