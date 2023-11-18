@@ -21,3 +21,7 @@
   * HTML page that displays a header and a footer.
   * File: `0-index.html`
 
++ Task 1. **Head styling**
+  * HTML page that displays a header and a footer by using the `style` tag in the `head` tag.
+  * File: `1-index.html`
+
