@@ -37,3 +37,7 @@
   * HTML page that displays a header, footer and a filters box with a search button.
   * File: `4-index.html`, `styles/4-common.css`, `styles/4-filters.css`
 
++ Task 5: **More filters**
+  * HTML page that displays a header, footer and a filters box.
+  * File: `5-index.html`, `styles/5-filters.css`
+
