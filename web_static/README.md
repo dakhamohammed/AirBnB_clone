@@ -29,3 +29,11 @@
   * HTML page that displays a header and a footer by using CSS files
   * File: `2-index.html`, `styles/2-common.css`, `styles/2-header.css`, `styles/2-footer.css`
 
++ Task 3: **Zoning done!**
+  * HTML page that displays a header and footer by using CSS files
+  * File: `3-index.html`, `styles/3-common.css`, `styles/3-header.css`, `styles/3-footer.css`, `images/`
+
++ Task 4: **Search!**
+  * HTML page that displays a header, footer and a filters box with a search button.
+  * File: `4-index.html`, `styles/4-common.css`, `styles/4-filters.css`
+
